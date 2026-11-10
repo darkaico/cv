@@ -1,31 +1,44 @@
 # Ariel Parra
 
-_Software Engineer based in Barcelona, Spain_ <br>
+_Engineering Manager based in Barcelona, Spain_ <br>
 
-[Email](mailto:darkaico@gmail.com) / [LinkedIn](https://www.linkedin.com/in/arielparra/) / [GitHub](https://github.com/darkaico/) / [Twitter](https://twitter.com/darkaico/)
+[Email](mailto:ariel.parra.vicheti@gmail.com) / [LinkedIn](https://www.linkedin.com/in/arielparra/) / [GitHub](https://github.com/darkaico/) / [Website](https://darkaico.com) / [Twitter](https://twitter.com/darkaico/)
 
 ## Summary
 
-With nearly 20 years in software engineering, I've grown from Backend Engineer to Engineering Manager at top companies like Eventbrite, Typeform, and, more recently, Wallapop.
-My journey has involved solving complex problems, building strong technical skills, and leading teams to deliver impactful projects. As the Engineering Manager for Wallapop's Payments and Checkout team, I optimize user experiences and payment processes and foster an innovative environment where engineers thrive. I'm passionate about leveraging technology and collaboration to achieve meaningful results.]
+Software engineer for almost 20 years, and Engineering Manager for the last 6, at companies like Eventbrite, Typeform, Wallapop and now Blacklane.
+I lead cross-functional teams (Product, Design, Web, iOS, Android, Backend) and connect technical decisions with business value: booking and checkout flows, payments, partner integrations and customer growth. I care about people's growth, pragmatic architecture and strong testing. Outside work, I still ship: generative music, maps and web experiments at [darkaico.com](https://darkaico.com).
 
 <br><br>
 
 ## Technical Experience
 
-### **Engineering Manager** @ [Wallapop](https://www.linkedin.com/company/wallapop/) _(April 2023 - Present)_ <br>
+### **Engineering Manager, Booker & Partner Experience** @ [Blacklane](https://www.linkedin.com/company/blacklane/) _(Feb 2026 - Present)_ <br>
 
-Engineer Manager of the payments and checkout team.
+Engineering Manager for the Booker & Partner Experience team, a cross-functional pod (Product, Design, Web, iOS, Android, Backend) that owns Blacklane's end-to-end B2B booking flows and partner journeys.
 
-I managed a cross functional team: iOS, Android, Web, Backend and QA, from Mid-Senior to Staff Engineers, helping them with their development careers.
-
-I collaborated with Product Managers and Product Designers, defining and distributing tasks, organizing our ways of working in favor of the team productivity.
-
-Additionally, I manage the technical contact point with our payments providers along with the technical and SLA definitions.
+The team focuses on a seamless and reliable checkout experience, scalable integrations, and healthy conversion across all guest touchpoints.
 
 <br><br>
 
-### **Engineering Manager** @ [Typeform](https://www.linkedin.com/company/typeform-/) _(Dec 2021 - January 2023)_ <br>
+### **Engineering Manager, Discovery & Engagement** @ [Blacklane](https://www.linkedin.com/company/blacklane/) _(Apr 2025 - Mar 2026)_ <br>
+
+Engineering Manager for the Discovery & Engagement team, a cross-functional pod (Product, Design, Web, iOS, Android, Backend) focused on new customer growth, retention, and account health across Blacklane's guest touchpoints.
+
+<br><br>
+
+### **Engineering Manager** @ [Wallapop](https://www.linkedin.com/company/wallapop/) _(Apr 2023 - Apr 2025)_ <br>
+
+Engineering Manager of two teams:
+
+- **Payments and Checkout:** a cross-functional team (iOS, Android, Web, Backend and QA), from Mid-Senior to Staff Engineers. I coordinated delivery with the Product Manager and the engineers, led cross-functional efforts, and was the technical contact point with our payment providers, including the technical and SLA definitions.
+- **Web team:** supported multiple topics within our tribe, to move initiatives forward and align the mobile apps with the web.
+
+I was also responsible for the teams' career growth, and I drove collaboration, operational excellence, and solutions that improved the customers' payment experience.
+
+<br><br>
+
+### **Engineering Manager** @ [Typeform](https://www.linkedin.com/company/typeform-/) _(Jan 2022 - Feb 2023)_ <br>
 
 Engineer Manager of a newly Typeform initiative in charge of the experimentation, verification, and development of new products that will enhance the Typeform ecosystem.
 
@@ -36,7 +49,7 @@ I collaborated with Product Managers and Product Designers, defining and distrib
 Additionally, I participated in technical discussions and architectural proposals, defining priorities and working with other engineer managers to align our work.
 <br><br>
 
-### **Engineering Team Lead** @ [VideoAsk](https://www.linkedin.com/company/videoask/) _(Aug 2020 - Dec 2021)_ <br>
+### **Engineering Team Lead → Engineering Manager** @ [VideoAsk](https://www.linkedin.com/company/videoask/) _(Aug 2020 - Jan 2022)_ <br>
 
 I joined VideoAsk (aka what we call "startup inside a startup") first as a Team Lead and switched entirely to being Engineering Manager.
 
@@ -211,7 +224,7 @@ Some of the projects I worked on:
 
 ## Complementary
 
-### **University Professor** @ [UTN - Facultad Regional Mendoza](https://utn.edu.ar/es/) _(Aug 2018 - Nov 2019)_<br>
+### **University Professor** @ [UTN - Facultad Regional Mendoza](https://utn.edu.ar/es/) _(Aug 2018 - Sep 2019)_<br>
 
 Practical applications professor of the the subject "Arquitectura de Microservicios".
 
@@ -239,5 +252,5 @@ University Researcher, working in 2 groups:
 **Computer Science Engineer** <br>
 [Universidad Tecnológica Nacional](https://utn.edu.ar/es/) - Mendoza, Argentina _(2002 - 2010)_ <br>
 
-**University Analist (intermediate degree)** <br>
+**University Analyst (intermediate degree)** <br>
 [Universidad Tecnológica Nacional](https://utn.edu.ar/es/) - Mendoza, Argentina _(2002 - 2008)_ <br>
